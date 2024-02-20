@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://next-test-ten-ochre.vercel.app/
+
+# Sitemaps
+Sitemap: https://next-test-ten-ochre.vercel.app/sitemap.xml
