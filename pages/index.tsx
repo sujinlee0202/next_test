@@ -48,6 +48,9 @@ const Home: NextPage<Props> = ({ stores }) => {
         title="지도 서비스 만들기"
         description="지도 서비스 만들기 설명란"
         canonical="https://next-test-ten-ochre.vercel.app/"
+        openGraph={{
+          url: 'https://next-test-ten-ochre.vercel.app/',
+        }}
       />
       <Header
         onClickLogo={resetMapOptions}
