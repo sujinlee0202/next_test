@@ -1,7 +1,7 @@
 import Header from '@/components/Header';
 import { NextSeo } from 'next-seo';
 
-export default function Feedback() {
+export default function FeedbackPage() {
   return (
     <>
       <NextSeo
